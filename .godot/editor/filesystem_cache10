@@ -1,6 +1,7 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1791481371
+::res://::1791495885
 icon.svg::CompressedTexture2D::4319779132295315157::1791479768::1791479777::1::::<><><>0<>0<>a6b573adc28975ad2f59f48e8a693c99<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-terrain_generator.gd::GDScript::9183079140959125905::1791480712::0::1::::<>Node2D<><>0<>1<><>::
-terrain_generator.tscn::PackedScene::445937137115901289::1791480712::0::1::::<><><>0<>0<><>::uid://d33l8bnd42sab::::res://terrain_generator.gd<>uid://da53h1w2ib0yb::::res://terrain_tileset-sheet.png
-terrain_tileset-sheet.png::CompressedTexture2D::7222907360886208765::1791479891::1791479891::1::::<><><>0<>0<>1bd769247fe53dd5f2340ae6d9253039<>res://.godot/imported/terrain_tileset-sheet.png-10ce5f68f601ddf794b27727b9b7b10a.ctex::
+plants tilesheet.png::CompressedTexture2D::5224247993532697318::1791495765::1791495769::1::::<><><>0<>0<>236a7123e491a718d66606062b715a09<>res://.godot/imported/plants tilesheet.png-5f42482f0abf362929bc5c7bebaf70c6.ctex::
+terrain_generator.gd::GDScript::9183079140959125905::1791495885::0::1::::<>Node2D<><>0<>1<><>::
+terrain_generator.tscn::PackedScene::445937137115901289::1791495885::0::1::::<><><>0<>0<><>::uid://d33l8bnd42sab::::res://terrain_generator.gd<>uid://dqqiq06fdf0kb::::res://terrain_tileset-sheet.png<>uid://cgowuo73hh863::::res://plants tilesheet.png
+terrain_tileset-sheet.png::CompressedTexture2D::8315829263201490161::1791496107::1791496109::1::::<><><>0<>0<>4f866691386f751486afda2999dede6b<>res://.godot/imported/terrain_tileset-sheet.png-10ce5f68f601ddf794b27727b9b7b10a.ctex::

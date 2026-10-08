@@ -1,1 +1,5 @@
 res://terrain_generator.tscn
+res://terrain_generator.gd
+res://grass.tres
+res://grass.gdshader
+res://terrain_generator.gdshader
